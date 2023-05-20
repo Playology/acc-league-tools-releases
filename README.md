@@ -1,5 +1,11 @@
 # ACC Leauge Tools Release History
 
+## v1.1.3 - 2003-05-20
+
+### Changed
+- Logo
+- Image used in update progress dialog
+
 ## v1.1.2 - 2003-05-19
 
 ### Fixed
