@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.1.4 - 2003-05-23
+
+### Added
+- Adjustment and Adjusted Score columns to SimGrid Standings Converter to cater for manual points adjustments not seen before
+
 ## v1.1.3 - 2003-05-20
 
 ### Changed
