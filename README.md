@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.1.6 - 2003-05-24
+
+### Added
+- Missing flag html column to SimGrid Standings Converter
+
 ## v1.1.5 - 2003-05-23
 
 ### Added
