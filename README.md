@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.1.7 - 2003-05-27
+
+### Added
+- McLaren 720s Evo
+
 ## v1.1.6 - 2003-05-24
 
 ### Added
