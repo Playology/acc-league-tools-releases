@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.2.0 - 2003-06-03
+
+### Added
+- Car manufacturer icon to grids
+
 ## v1.1.7 - 2003-05-27
 
 ### Added
