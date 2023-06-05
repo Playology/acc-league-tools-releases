@@ -1,5 +1,13 @@
 # ACC Leauge Tools Release History
 
+## v1.2.1 - 2003-06-05
+
+### Added
+- Car manufacturer icon to sim grid converter
+
+### Fixed
+- Mapping of car names from sim grid
+
 ## v1.2.0 - 2003-06-03
 
 ### Added
