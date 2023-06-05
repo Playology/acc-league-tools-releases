@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.2.2 - 2003-06-05
+
+### Fixed
+- Issue with flag icon settings be overwritten
+
 ## v1.2.1 - 2003-06-05
 
 ### Added
