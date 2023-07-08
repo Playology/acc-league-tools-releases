@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.2.3 - 2003-07-08
+
+### Fixed
+- Car name differences with sim grid exports
+
 ## v1.2.2 - 2003-06-05
 
 ### Fixed
