@@ -1,5 +1,10 @@
 # ACC Leauge Tools Release History
 
+## v1.5.0 - 2003-08-02
+
+### Added
+- Ability to exclude session types from download and import
+
 ## v1.2.3 - 2003-07-08
 
 ### Fixed
